@@ -63,7 +63,7 @@ LEFT JOIN
 ON
     fp.factory = fn.factory
 ORDER BY
-    fp.factory
+    fp.factory    
 ;
 
 
