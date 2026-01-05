@@ -219,5 +219,3 @@ where hs_2023 > hs_2024
 -- Using recursive CTE's
 -- Create the reporting chain gierarchy of employees
 
-select * 
-FROM employees;
